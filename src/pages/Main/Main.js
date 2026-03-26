@@ -23,6 +23,4 @@ function Main() {
             {/* <Footer /> */}
         </div>
     )
-}
-
-export default Main
+};
